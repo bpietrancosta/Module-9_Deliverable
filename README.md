@@ -1,7 +1,8 @@
 # Module-9_Deliverable
 ## Weather Analysis between the months of June and December
 ### Our data set is a list of daily temperatures. We were able to produce summary statistics about these temperatures during June and December. Below are the 3 primary points of analyses we were able to define:
-- The temperature count for June is 1700 while for December it's 1517. See screenshot below for the ordered screenshot evidence:
+- ### The temperature count is different for June and December.
+The temperature count for June is 1700 while for December it's 1517. See screenshot below for the ordered screenshot evidence:
 ![June temps](https://user-images.githubusercontent.com/114181709/205793392-75173d40-e9b1-4a74-bc91-b52c38f348e0.png)
 ![Dec temps](https://user-images.githubusercontent.com/114181709/205793400-35a7a170-4e9e-4d2e-b7cc-9c7a8013361e.png)
 
